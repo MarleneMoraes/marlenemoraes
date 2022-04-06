@@ -1,18 +1,18 @@
 ## Marlene Moraes
 
-**Desenvolvedora Full Stack Java | Angular 👩🏽‍💻**
+**Full Stack Java | Angular Developer 👩🏽‍💻**
 
-Bibliotecária e Gestora da Informação, a tecnologia me despertou interesse através do *Machine Learning* e Ciência de Dados. Após idas e vindas de cursos durante 1 ano e meio, posso afirmar que estou bem longe disso: hoje estudo Desenvolvimento Full-Stack Java no back-end e Angular 2+ no front-end, e não pretendo parar por aí.
+Librarian and Information Manager, technology aroused my interest through Machine Learning and Data Science. After going back and forth with courses for a year and a half, I can say that I'm far from it: today I'm studying Full-Stack Java Development on the back-end and Angular 2+ on the front-end, and I don't intend to stop there.
 
-No mundo acadêmico, curso Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC-MG). Aprendo a linguagem C e Java nas atividades universitárias e posto no Replit, trabalhos fora da minha stack.
+In the academic world, I am studying Software Engineering at the Pontifical Catholic University of Minas Gerais (PUC-MG). I learn the C and Java language in university activities and post in Replit, works outside my stack.
 
-De experiências na área da tecnologia, atuei como estagiária de desenvolvimento C# | Bootstrap na LIONS - Proteção Veicular (atual Pluro) em 2021. Atualmente, faço parte do programa Next Step Tech na Google Brasil na equipe do Google Search.
+From experiences in the technology area, I worked as a C# development intern | Bootstrap at LIONS - Vehicular Protection (currently Pluro) in 2021. I am currently part of the Next Step Tech program at Google Brazil on the Google Search team.
 
 <section>
-    <p><small>Contatos:</small></p>
+    <p><small>Contact:</small></p>
     <a href="https://www.linkedin.com/in/marlenemoraes/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="mailto:marlenevmoraes@outlook.com"><img src="https://img.icons8.com/color/48/000000/ms-outlook.png"/></a>
-    <p><small>Algumas plataformas que desenvolvo minhas habilidades:</small></p>
+    <p><small>All plataforms I test my habilities:</small></p>
     <img src="https://img.shields.io/badge/-Microsoft_Learn-333333?style=flat&logo=microsoft&link=https://docs.microsoft.com/pt-br/users/marlene-moraes/" alt="Microsoft Learn">
     <img src="https://img.shields.io/badge/-CodePen-333333?style=flat&logo=CodePen&link=https://codepen.io/marlenemoraes" alt="CodePen">
     <img src="https://img.shields.io/badge/-Repl.it-333333?style=flat&logo=Repl.it&link=https://replit.com/@MarleneMoraes" alt="Repl.it">
@@ -25,7 +25,7 @@ De experiências na área da tecnologia, atuei como estagiária de desenvolvimen
 
 <hr>
 
-🌐 **Pela Internet**
+🌐 **Around the Internet**
 
 - [7 dicas de uma bibliotecária na TI (para calouros e novatos na Tecnologia)](https://www.linkedin.com/pulse/7-dicas-de-uma-bibliotec%C3%A1ria-na-ti-para-calouros-e-novatos-moraes/)
 
@@ -34,7 +34,7 @@ De experiências na área da tecnologia, atuei como estagiária de desenvolvimen
 - [6 Dicas de Como Interagir no LinkedIn](https://medium.com/@marlenemoraes/6-dicas-de-como-interagir-no-linkedin-9caeb2c2cf73)
 
 
-💡 **Projetos Originais**
+💡 **Original Projects**
 
 - [Pipocando em Casa (2020)](https://marlenemoraes.github.io/pipocando-em-casa/)
   
@@ -42,7 +42,7 @@ De experiências na área da tecnologia, atuei como estagiária de desenvolvimen
   
 - [Portifólio de Lorena Rocha (2022)](https://lorenarocha.herokuapp.com/)
 
-🎫 **Projetos de Eventos e Cursos**
+🎫 **Events and Courses' Projects**
 - [Discord Bots (2021)](https://github.com/MarleneMoraes/bot-discord)
  
 - [DSVendas (2022)](https://ds-vendas-sds5.netlify.app/)
