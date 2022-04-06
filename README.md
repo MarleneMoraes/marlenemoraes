@@ -17,8 +17,8 @@ From experiences in the technology area, I worked as a C# development intern | B
     <img src="https://img.shields.io/badge/-Microsoft_Learn-333333?style=flat&logo=microsoft&link=https://docs.microsoft.com/pt-br/users/marlene-moraes/" alt="Microsoft Learn">
     <img src="https://img.shields.io/badge/-CodePen-333333?style=flat&logo=CodePen&link=https://codepen.io/marlenemoraes" alt="CodePen">
     <img src="https://img.shields.io/badge/-Repl.it-333333?style=flat&logo=Repl.it&link=https://replit.com/@MarleneMoraes" alt="Repl.it">
-   <a href="https://github.com/MarleneMoraes/MarleneMoraes/tree/english">
-    <img  align="right" src="https://img.shields.io/badge/English%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=red" />
+   <a href="https://github.com/MarleneMoraes/MarleneMoraes/tree/main">
+    <img  align="right" src="https://img.shields.io/badge/Português do Brasil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=green" />
   </a>
 </section>
 
