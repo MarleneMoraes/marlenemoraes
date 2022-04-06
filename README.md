@@ -1,6 +1,7 @@
 ## Marlene Moraes
 
 **Full Stack Java | Angular Developer 👩🏽‍💻**
+<img src=".\img\MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
 
 Librarian and Information Manager, technology aroused my interest through Machine Learning and Data Science. After going back and forth with courses for a year and a half, I can say that I'm far from it: today I'm studying Full-Stack Java Development on the back-end and Angular 2+ on the front-end, and I don't intend to stop there.
 
@@ -62,4 +63,8 @@ From experiences in the technology area, I worked as a C# development intern | B
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width:45px; margin-right: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="width:45px; margin-right: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="width:45px; margin-right: 5px;"/>
+</section>
+
+<section align="center">
+    <img src=".\img\coffee-lover-hot-coffee.gif" alt="coffee" width="150px"/>
 </section>
