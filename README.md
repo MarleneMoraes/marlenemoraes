@@ -1,6 +1,7 @@
 ## Marlene Moraes
 
 **Desenvolvedora Full Stack Java | Angular 👩🏽‍💻**
+<img src=".\img\MarleneMoraes_por_NanciYin.png" alt="Marlene em aquarela por Nanci Yin" width="150px" align="right"/>
 
 Bibliotecária e Gestora da Informação, a tecnologia me despertou interesse através do *Machine Learning* e Ciência de Dados. Após idas e vindas de cursos durante 1 ano e meio, posso afirmar que estou bem longe disso: hoje estudo Desenvolvimento Full-Stack Java no back-end e Angular 2+ no front-end, e não pretendo parar por aí.
 
@@ -63,3 +64,9 @@ De experiências na área da tecnologia, atuei como estagiária de desenvolvimen
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="width:45px; margin-right: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="width:45px; margin-right: 5px;"/>
 </section>
+
+<section align="center">
+    <img src=".\img\coffee-lover-hot-coffee.gif" alt="Cafezin" width="150px"/>
+</section>
+
+
