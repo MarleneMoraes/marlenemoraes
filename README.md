@@ -20,6 +20,9 @@ From experiences in the technology area, I worked as a C# development intern | B
    <a href="https://github.com/MarleneMoraes/MarleneMoraes/tree/main">
     <img  align="right" src="https://img.shields.io/badge/Português do Brasil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=green" />
   </a>
+     <a href="#">
+    <img  align="right" src="https://img.shields.io/badge/Français (bientôt)%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=blue" />
+   </a>
 </section>
 
 <br/>
