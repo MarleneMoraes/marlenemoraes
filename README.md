@@ -20,6 +20,9 @@ De experiências na área da tecnologia, atuei como estagiária de desenvolvimen
    <a href="https://github.com/MarleneMoraes/MarleneMoraes/tree/english">
     <img  align="right" src="https://img.shields.io/badge/English%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=red" />
   </a>
+   <a href="#">
+    <img  align="right" src="https://img.shields.io/badge/Français (bientôt)%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=blue" />
+   </a>
 </section>
 
 <br/>
