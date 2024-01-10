@@ -10,23 +10,23 @@ From experiences in the field of technology, I was a Full Stack Development Inte
 
 ## Contact
 <section>
-    <a href="https://wa.me/5521988881994" margin="20px">
-        <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp">
+    <a href="https://wa.me/5521988881994" target="_blank" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white"  alt="Whatsapp">
     </a>
-    <a href="mailito:marlenevmoraes@outlook.com" margin="20px">
-        <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+    <a href="mailto:marlenevmoraes@outlook.com" target="_blank" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  alt="Outlook">
     </a>
-    <a href="https://www.linkedin.com/in/marlenemoraes/" margin="20px">
+    <a href="https://www.linkedin.com/in/marlenemoraes/" target="_blank" style="text-decoration:none">
         <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://linktr.ee/marlenemoraes" margin="20px">
+    <a href="https://linktr.ee/marlenemoraes" target="_blank" style="text-decoration:none">
         <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
     </a>
 </section>
 
 ## Professional Experience
 
-[<img align="left" height="64px" alt="Google" src="https://static-00.iconduck.com/assets.00/google-icon-2048x2048-czn3g8x8.png"/>](https://www.google.com.br/)
+<img align="left" height="64px" alt="Google" src="https://static-00.iconduck.com/assets.00/google-icon-2048x2048-czn3g8x8.png"/>
 
 **Next Step Tech - Software Engineer** \
 [**Google**](https://www.google.com.br/) • Internship \
@@ -34,7 +34,7 @@ From experiences in the field of technology, I was a Full Stack Development Inte
 Technologies: `C++`, `Protocol Buffers`, `Linux`, `gRPC`
 <br/>
 
-[<img align="left" height="94px" alt="Lions" src="https://autospesados.com.br/wp-content/uploads/2020/07/unnamed-4-780x1102.jpg"/>](https://lionsmutual.com.br/)
+<img align="left" height="94px" alt="Lions" src="https://autospesados.com.br/wp-content/uploads/2020/07/unnamed-4-780x1102.jpg"/>
 
 <br/>
 
