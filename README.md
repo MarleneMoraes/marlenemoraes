@@ -6,6 +6,8 @@ Librarian and Information Manager who transitioned to the IT area. I studing Sof
 
 From experiences in the field of technology, I was a Full Stack Development Intern C# | Wordpress at LIONS - Vehicular Protection (currently Pluro) in 2021. I'm currently part of the Next Step Tech program on the Google SearchX team.
 
+[🇧🇷](https://github.com/MarleneMoraes/marlenemoraes/tree/brazilian-portuguese)
+
 ## Contact
 <section>
     <a href="https://wa.me/5521988881994" margin="20px">
