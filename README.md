@@ -2,11 +2,11 @@
 ### Software Engineer
 
 <img src=".\assets\MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
-Librarian and Information Manager who transitioned to the IT area. I studing Software Engineering at the Pontifical Catholic University of Minas Gerais (PUC-MG) and specialization in Java Develompent in Federal University of Technology Paraná (UTFPR).
+Librarian and Information Manager who transitioned to the IT area. I studing Information Systems at the Pontifical Catholic University of Minas Gerais (PUC-MG) and specialization in Java Develompent in Federal University of Technology Paraná (UTFPR).
 
-From experiences in the field of technology, I was a Full Stack Development Intern C# | Wordpress at LIONS - Vehicular Protection (currently Pluro) in 2021. I'm currently part of the Next Step Tech program on the Google SearchX team.
+From experiences in the field of technology, I was a Full Stack Development Intern C# | Wordpress at LIONS - Vehicular Protection (currently Pluro) in 2021. I was part of the Next Step Tech program at Google, in Search Team (2022-2024).
 
-[🇧🇷](https://github.com/MarleneMoraes/marlenemoraes/tree/brazilian-portuguese)
+[🇧🇷](https://github.com/MarleneMoraes/marlenemoraes/tree/brazilian-portuguese) [🇫🇷](https://github.com/MarleneMoraes/marlenemoraes/tree/french)
 
 ## Contact
 <section>
@@ -30,8 +30,8 @@ From experiences in the field of technology, I was a Full Stack Development Inte
 
 **Next Step Tech - Software Engineer** \
 [**Google**](https://www.google.com.br/) • Internship \
-<small>Apr 2022-Current Date</small> \
-Technologies: `C++`, `Protocol Buffers`, `Linux`, `gRPC`
+<small>Apr 2022 – Apr 2024</small> \
+Technologies: `C++`, `Angularjs`, `Angular`, `gUnit`, `Protocol Buffers`, `Linux`, `gRPC`, `Mercurial`, `GCP` 
 <br/>
 
 <img align="left" height="94px" alt="Lions" src="https://autospesados.com.br/wp-content/uploads/2020/07/unnamed-4-780x1102.jpg"/>
@@ -45,7 +45,7 @@ Technologies: `.NET Core`, `C#`, `Wordpress`, `Microsoft SQL Server`
 <br/>
 
 ## Qualifications
-### Hard Skills
+### Skills
 <section>
     <img height="40" margin="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C plus plus"/>
@@ -63,6 +63,7 @@ Technologies: `.NET Core`, `C#`, `Wordpress`, `Microsoft SQL Server`
 English B2, Brazilian Portuguese C2, French A2, Spanish A2.
 
 ## Additional Informations
+- Volunteer work as Advisor to the Communication Team of the [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/) (Mar/2024).
 - Speaker at the Google Developers Group Nova Lima event with the theme "Tech Career Challenges (And How to Overcome Them)" (aug/2023).
 - Round Table participant at the Mind The Gap event, an internal Google event held locally (aug/2023).
 
