@@ -4,9 +4,9 @@
 <img src=".\assets\MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
 Bibliotecária e Gestora da Informação que transicionou a área de TI. Eu estudo Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC Minas) e especialização em Desenvolvimento Java na Universidade Tecnológica Federal do Paraná (UTFPR).
 
-De experiências na área da tecnologia, em 2021 atuou como Estagiária de Desenvolvimento Full Stack C# | Wordpress na LIONS - Proteção Veicular (atual Pluro). Atualmente, faz parte do programa Next Step Tech na equipe do Google Search.
+De experiências na área da tecnologia, em 2021 atuou como Estagiária de Desenvolvimento Full Stack C# | Wordpress na LIONS - Proteção Veicular (atual Pluro). Fez parte do programa Next Step Tech na Google, equipe de Search (2022-2024).
 
-[🇺🇸](https://github.com/MarleneMoraes/marlenemoraes/tree/main)
+[🇺🇸](https://github.com/MarleneMoraes/marlenemoraes/tree/main) [🇫🇷](https://github.com/MarleneMoraes/marlenemoraes/tree/french)
 
 ## Contato
 <section>
@@ -31,8 +31,8 @@ De experiências na área da tecnologia, em 2021 atuou como Estagiária de Desen
 
 **Next Step Tech - Engenheira de Software** \
 [**Google**](https://www.google.com.br/) • Estágio \
-<small>Abr 2022-Atualmente</small> \
-Tecnologias: `C++`, `Protocol Buffers`, `Linux`, `gRPC`
+<small>Abr 2022 - Abr 2024</small> \
+Tecnologias: `C++`, `Angularjs`, `Angular`, `gUnit`, `Protocol Buffers`, `Linux`, `gRPC`, `Mercurial`, `GCP`
 <br/>
 
 <img align="left" height="94px" alt="Lions" src="https://autospesados.com.br/wp-content/uploads/2020/07/unnamed-4-780x1102.jpg"/>
@@ -64,6 +64,7 @@ Tecnologias: `.NET Core`, `C#`, `Wordpress`, `Microsoft SQL Server`
 Inglês B2, Português Brasileiro C2, Francês A2, Espanhol A2.
 
 ## Informações Adicionais
+- Voluntária como Assessora de Comunicação na [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/) (Mar/2024)
 - Palestrante no evento Google Developers Group Nova Lima com o tema "Desafios na Carreira Tech (E Como Vencê-los)" (ago/2023).
 - Participante da Mesa Redonda no evento Mind The Gap, evento interno do Google realizado localmente (ago/2023).
 
