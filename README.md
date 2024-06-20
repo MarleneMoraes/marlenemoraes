@@ -2,9 +2,9 @@
 ### Software Engineer
 
 <img src=".\assets\MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
-Librarian and Information Manager who transitioned to the IT area. I studing Information Systems at the Pontifical Catholic University of Minas Gerais (PUC-MG) and specialization in Java Develompent in Federal University of Technology Paraná (UTFPR).
+Librarian and Information Manager who transitioned to the IT area. I studing specialization in Java Develompent in Federal University of Technology Paraná (UTFPR).
 
-From experiences in the field of technology, I was a Full Stack Development Intern C# | Wordpress at LIONS - Vehicular Protection (currently Pluro) in 2021. I was part of the Next Step Tech program at Google, in Search Team (2022-2024).
+From experiences in the field of technology, I was a Full Stack Development Intern C# | Wordpress at LIONS - Vehicular Protection (currently Pluro) in 2021. I was part of the Next Step Tech program at Google, in Search Team (2022-2024). Currently, I'm Software Engineer at CI&T.
 
 [🇧🇷](https://github.com/MarleneMoraes/marlenemoraes/tree/brazilian-portuguese) [🇫🇷](https://github.com/MarleneMoraes/marlenemoraes/tree/french)
 
@@ -26,22 +26,28 @@ From experiences in the field of technology, I was a Full Stack Development Inte
 
 ## Professional Experience
 
-<img align="left" height="64px" alt="Google" src="https://static-00.iconduck.com/assets.00/google-icon-2048x2048-czn3g8x8.png"/>
+
+<img align="left" style="margin-right: 5px; height: 64px;" alt="CI&T" src="https://upload.wikimedia.org/wikipedia/pt/8/88/CI%26T.png"/> 
+
+**Software Engineer** \
+[**CI&T**](https://ciandt.com/br/) • Full-time \
+<small>Jun 2024 – Currently</small> \
+<br/>
+
+<img align="left" style="margin-right: 5px; height: 64px;" alt="Google" src="https://static-00.iconduck.com/assets.00/google-icon-2048x2048-czn3g8x8.png"/>
 
 **Next Step Tech - Software Engineer** \
 [**Google**](https://www.google.com.br/) • Internship \
 <small>Apr 2022 – Apr 2024</small> \
-Technologies: `C++`, `Angularjs`, `Angular`, `gUnit`, `Protocol Buffers`, `Linux`, `gRPC`, `Mercurial`, `GCP` 
 <br/>
 
-<img align="left" height="94px" alt="Lions" src="https://autospesados.com.br/wp-content/uploads/2020/07/unnamed-4-780x1102.jpg"/>
+<img align="left" style="margin-right: 5px; height: 84px;" alt="Lions" src="https://autospesados.com.br/wp-content/uploads/2020/07/unnamed-4-780x1102.jpg"/>
 
 <br/>
 
-**Full Stack Developer** \
+**Full Stack .NET Developer** \
 [**Lions Proteção Veicular**](https://lionsmutual.com.br/) • Internship \
 <small>Aug 2021 – Nov 2021</small> \
-Technologies: `.NET Core`, `C#`, `Wordpress`, `Microsoft SQL Server`
 <br/>
 
 ## Qualifications
@@ -63,9 +69,11 @@ Technologies: `.NET Core`, `C#`, `Wordpress`, `Microsoft SQL Server`
 English B2, Brazilian Portuguese C2, French A2, Spanish A2.
 
 ## Additional Informations
-- Volunteer work as Advisor to the Communication Team of the [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/) (Mar/2024).
-- Speaker at the Google Developers Group Nova Lima event with the theme "Tech Career Challenges (And How to Overcome Them)" (aug/2023).
-- Round Table participant at the Mind The Gap event, an internal Google event held locally (aug/2023).
+- Volunteer work as Advisor to the Communication Team of the [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/) (Mar/2024-Jun/2024).
+- Speaker at the Dia D Carreiras event ([COTEMIG](https://www.linkedin.com/school/cotemig/)) with the theme "Efficiency Beyond Code: how to choose your stack strategically" (Jun/2024).
+- Volunteer work as C++ Instructor of the [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/)'s course (Apr/2024).
+- Speaker at the [Google Developers Group Nova Lima](https://www.linkedin.com/company/gdgnovalima/) event with the theme "Tech Career Challenges (And How to Overcome Them)" (aug/2023).
+- Round Table participant at the [Mind The Gap](https://sites.google.com/site/mindthegapprogram/home) event, an internal Google event held locally (aug/2023).
 
 <div align="center">
     <img src=".\assets\coffee-lover-hot-coffee.gif" alt="Little Coffee" width="150px"/>
