@@ -2,9 +2,9 @@
 ### Engenheira de Software
 
 <img src=".\assets\MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
-Bibliotecária e Gestora da Informação que transicionou a área de TI. Eu estudo Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC Minas) e especialização em Desenvolvimento Java na Universidade Tecnológica Federal do Paraná (UTFPR).
+Bibliotecária e Gestora da Informação que transicionou a área de TI. Eu estudo a especialização em Desenvolvimento Java na Universidade Tecnológica Federal do Paraná (UTFPR).
 
-De experiências na área da tecnologia, em 2021 atuou como Estagiária de Desenvolvimento Full Stack C# | Wordpress na LIONS - Proteção Veicular (atual Pluro). Fez parte do programa Next Step Tech na Google, equipe de Search (2022-2024).
+De experiências na área da tecnologia, em 2021 atuou como Estagiária de Desenvolvimento Full Stack C# | Wordpress na LIONS - Proteção Veicular (atual Pluro). Fez parte do programa Next Step Tech na Google, equipe de Search (2022-2024). Atualmente, sou Engenheira de Software na CI&T.
 
 [🇺🇸](https://github.com/MarleneMoraes/marlenemoraes/tree/main) [🇫🇷](https://github.com/MarleneMoraes/marlenemoraes/tree/french)
 
@@ -26,6 +26,13 @@ De experiências na área da tecnologia, em 2021 atuou como Estagiária de Desen
 
 
 ## Experiência Profissional
+
+<img align="left" style="margin-right: 5px; height: 64px;" alt="CI&T" src="https://upload.wikimedia.org/wikipedia/pt/8/88/CI%26T.png"/> 
+
+**Engenheira de Software** \
+[**CI&T**](https://ciandt.com/br/) • Tempo integral \
+<small>Jun 2024 – Atual</small> \
+<br/>
 
 <img align="left" height="64px" alt="Google" src="https://static-00.iconduck.com/assets.00/google-icon-2048x2048-czn3g8x8.png"/>
 
@@ -64,7 +71,9 @@ Tecnologias: `.NET Core`, `C#`, `Wordpress`, `Microsoft SQL Server`
 Inglês B2, Português Brasileiro C2, Francês A2, Espanhol A2.
 
 ## Informações Adicionais
-- Voluntária como Assessora de Comunicação na [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/) (Mar/2024)
+- Trabalho voluntário como Assessora da Equipe de Comunicação da [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/) (Mar/2024-Jun/2024).
+- Palestrante no evento Dia D Carreiras ([COTEMIG](https://www.linkedin.com/school/cotemig/)) com o tema "Eficiência além do código: como escolher sua stack estrategicamente" (Jun/2024).
+- Trabalho voluntário como Instrutora de C++ do curso [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/) (abr/2024).
 - Palestrante no evento Google Developers Group Nova Lima com o tema "Desafios na Carreira Tech (E Como Vencê-los)" (ago/2023).
 - Participante da Mesa Redonda no evento Mind The Gap, evento interno do Google realizado localmente (ago/2023).
 
