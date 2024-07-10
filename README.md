@@ -69,8 +69,9 @@ From experiences in the field of technology, I was a Full Stack Development Inte
 English B2, Brazilian Portuguese C2, French A2, Spanish A2.
 
 ## Additional Informations
+- Volunteer work as Organizer at [Google Developers Group (GDG) Nova Lima Chapter](https://www.linkedin.com/company/gdgnovalima/) (Jul/2024-Current).
+- Volunteer work as Advisor to the Marketing and Site Teams of the [Women In Tech (WiT)](https://www.linkedin.com/company/witwomenintech/) (Jun/2024-Current).
 - Volunteer work as Advisor to the Communication Team of the [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/) (Mar/2024-Jun/2024).
-- Speaker at the Dia D Carreiras event ([COTEMIG](https://www.linkedin.com/school/cotemig/)) with the theme "Efficiency Beyond Code: how to choose your stack strategically" (Jun/2024).
 - Volunteer work as C++ Instructor of the [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/)'s course (Apr/2024).
 - Speaker at the [Google Developers Group Nova Lima](https://www.linkedin.com/company/gdgnovalima/) event with the theme "Tech Career Challenges (And How to Overcome Them)" (aug/2023).
 - Round Table participant at the [Mind The Gap](https://sites.google.com/site/mindthegapprogram/home) event, an internal Google event held locally (aug/2023).
