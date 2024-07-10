@@ -71,8 +71,9 @@ Tecnologias: `.NET Core`, `C#`, `Wordpress`, `Microsoft SQL Server`
 Inglês B2, Português Brasileiro C2, Francês A2, Espanhol A2.
 
 ## Informações Adicionais
+- Trabalho voluntário como Organizadora do [Google Developers Group (GDG) Nova Lima](https://www.linkedin.com/company/gdgnovalima/) (Jul/2024-Atual).
+- Trabalho voluntário como Assessora da Equipe de Marketing e da Equipe de Site da [Women In Tech (WiT)](https://www.linkedin.com/company/witwomenintech/) (Jun/2024-Atual).
 - Trabalho voluntário como Assessora da Equipe de Comunicação da [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/) (Mar/2024-Jun/2024).
-- Palestrante no evento Dia D Carreiras ([COTEMIG](https://www.linkedin.com/school/cotemig/)) com o tema "Eficiência além do código: como escolher sua stack estrategicamente" (Jun/2024).
 - Trabalho voluntário como Instrutora de C++ do curso [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/) (abr/2024).
 - Palestrante no evento Google Developers Group Nova Lima com o tema "Desafios na Carreira Tech (E Como Vencê-los)" (ago/2023).
 - Participante da Mesa Redonda no evento Mind The Gap, evento interno do Google realizado localmente (ago/2023).
