@@ -27,7 +27,7 @@ From experiences in the field of technology, I was a Full Stack Development Inte
 ## Professional Experience
 
 
-<img align="left" style="margin-right: 5px; height: 64px;" alt="CI&T" src="https://upload.wikimedia.org/wikipedia/pt/8/88/CI%26T.png"/> 
+<img align="left" style="margin-right: 5px; height: 50px;" alt="CI&T" src="https://upload.wikimedia.org/wikipedia/pt/8/88/CI%26T.png"/> 
 
 **Software Engineer** \
 [**CI&T**](https://ciandt.com/br/) • Full-time \
@@ -55,22 +55,22 @@ From experiences in the field of technology, I was a Full Stack Development Inte
 <section>
     <img height="40" margin="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C plus plus"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C sharp"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  alt="Nodejs"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP"/>        
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  alt="Docker"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian 10"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-</section>         
+</section>       
 
 ### Languages
 English B2, Brazilian Portuguese C2, French A2, Spanish A2.
 
 ## Additional Informations
 - Volunteer work as Organizer at [Google Developers Group (GDG) Nova Lima Chapter](https://www.linkedin.com/company/gdgnovalima/) (Jul/2024-Current).
-- Volunteer work as Advisor to the Marketing and Site Teams of the [Women In Tech (WiT)](https://www.linkedin.com/company/witwomenintech/) (Jun/2024-Current).
 - Volunteer work as Advisor to the Communication Team of the [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/) (Mar/2024-Jun/2024).
 - Volunteer work as C++ Instructor of the [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/)'s course (Apr/2024).
 - Speaker at the [Google Developers Group Nova Lima](https://www.linkedin.com/company/gdgnovalima/) event with the theme "Tech Career Challenges (And How to Overcome Them)" (aug/2023).
