@@ -27,7 +27,7 @@ De experiências na área da tecnologia, em 2021 atuou como Estagiária de Desen
 
 ## Experiência Profissional
 
-<img align="left" style="margin-right: 5px; height: 64px;" alt="CI&T" src="https://upload.wikimedia.org/wikipedia/pt/8/88/CI%26T.png"/> 
+<img align="left" style="margin-right: 5px; height: 50px;" alt="CI&T" src="https://upload.wikimedia.org/wikipedia/pt/8/88/CI%26T.png"/> 
 
 **Engenheira de Software** \
 [**CI&T**](https://ciandt.com/br/) • Tempo integral \
@@ -39,7 +39,6 @@ De experiências na área da tecnologia, em 2021 atuou como Estagiária de Desen
 **Next Step Tech - Engenheira de Software** \
 [**Google**](https://www.google.com.br/) • Estágio \
 <small>Abr 2022 - Abr 2024</small> \
-Tecnologias: `C++`, `Angularjs`, `Angular`, `gUnit`, `Protocol Buffers`, `Linux`, `gRPC`, `Mercurial`, `GCP`
 <br/>
 
 <img align="left" height="94px" alt="Lions" src="https://autospesados.com.br/wp-content/uploads/2020/07/unnamed-4-780x1102.jpg"/>
@@ -49,7 +48,6 @@ Tecnologias: `C++`, `Angularjs`, `Angular`, `gUnit`, `Protocol Buffers`, `Linux`
 **Desenvolvedora Full Stack** \
 [**Lions Proteção Veicular**](https://lionsmutual.com.br/) • Estágio \
 <small>Ago 2021 – Nov 2021</small> \
-Tecnologias: `.NET Core`, `C#`, `Wordpress`, `Microsoft SQL Server`
 <br/>
 
 ## Qualificações
@@ -57,22 +55,23 @@ Tecnologias: `.NET Core`, `C#`, `Wordpress`, `Microsoft SQL Server`
 <section>
     <img height="40" margin="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C plus plus"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C sharp"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  alt="Nodejs"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP"/>        
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  alt="Docker"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian 10"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-</section>
+</section>         
+
 
 ### Idiomas
 Inglês B2, Português Brasileiro C2, Francês A2, Espanhol A2.
 
 ## Informações Adicionais
 - Trabalho voluntário como Organizadora do [Google Developers Group (GDG) Nova Lima](https://www.linkedin.com/company/gdgnovalima/) (Jul/2024-Atual).
-- Trabalho voluntário como Assessora da Equipe de Marketing e da Equipe de Site da [Women In Tech (WiT)](https://www.linkedin.com/company/witwomenintech/) (Jun/2024-Atual).
 - Trabalho voluntário como Assessora da Equipe de Comunicação da [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/) (Mar/2024-Jun/2024).
 - Trabalho voluntário como Instrutora de C++ do curso [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/) (abr/2024).
 - Palestrante no evento Google Developers Group Nova Lima com o tema "Desafios na Carreira Tech (E Como Vencê-los)" (ago/2023).
