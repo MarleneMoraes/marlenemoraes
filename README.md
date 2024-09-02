@@ -24,32 +24,6 @@ De experiências na área da tecnologia, em 2021 atuou como Estagiária de Desen
     </a>
 </section>
 
-
-## Experiência Profissional
-
-<img align="left" style="margin-right: 5px; height: 50px;" alt="CI&T" src="https://upload.wikimedia.org/wikipedia/pt/8/88/CI%26T.png"/> 
-
-**Engenheira de Software** \
-[**CI&T**](https://ciandt.com/br/) • Tempo integral \
-<small>Jun 2024 – Atual</small> \
-<br/>
-
-<img align="left" height="64px" alt="Google" src="https://static-00.iconduck.com/assets.00/google-icon-2048x2048-czn3g8x8.png"/>
-
-**Next Step Tech - Engenheira de Software** \
-[**Google**](https://www.google.com.br/) • Estágio \
-<small>Abr 2022 - Abr 2024</small> \
-<br/>
-
-<img align="left" height="94px" alt="Lions" src="https://autospesados.com.br/wp-content/uploads/2020/07/unnamed-4-780x1102.jpg"/>
-
-<br/>
-
-**Desenvolvedora Full Stack** \
-[**Lions Proteção Veicular**](https://lionsmutual.com.br/) • Estágio \
-<small>Ago 2021 – Nov 2021</small> \
-<br/>
-
 ## Qualificações
 ### Habilidades Técnicas
 <section>
