@@ -24,32 +24,6 @@ From experiences in the field of technology, I was a Full Stack Development Inte
     </a>
 </section>
 
-## Professional Experience
-
-
-<img align="left" style="margin-right: 5px; height: 50px;" alt="CI&T" src="https://upload.wikimedia.org/wikipedia/pt/8/88/CI%26T.png"/> 
-
-**Software Engineer** \
-[**CI&T**](https://ciandt.com/br/) • Full-time \
-<small>Jun 2024 – Currently</small> \
-<br/>
-
-<img align="left" style="margin-right: 5px; height: 64px;" alt="Google" src="https://static-00.iconduck.com/assets.00/google-icon-2048x2048-czn3g8x8.png"/>
-
-**Next Step Tech - Software Engineer** \
-[**Google**](https://www.google.com.br/) • Internship \
-<small>Apr 2022 – Apr 2024</small> \
-<br/>
-
-<img align="left" style="margin-right: 5px; height: 84px;" alt="Lions" src="https://autospesados.com.br/wp-content/uploads/2020/07/unnamed-4-780x1102.jpg"/>
-
-<br/>
-
-**Full Stack .NET Developer** \
-[**Lions Proteção Veicular**](https://lionsmutual.com.br/) • Internship \
-<small>Aug 2021 – Nov 2021</small> \
-<br/>
-
 ## Qualifications
 ### Skills
 <section>
