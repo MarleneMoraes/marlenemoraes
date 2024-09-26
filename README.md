@@ -2,9 +2,9 @@
 ### Software Engineer
 
 <img src=".\assets\MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
-Librarian and Information Manager who transitioned to the IT area. I studing specialization in Java Develompent in Federal University of Technology Paraná (UTFPR).
+Msc in Information Science who transitioned to the IT area and specialist in Java Develompent in Federal University of Technology Paraná (UTFPR).
 
-From experiences in the field of technology, I was a Full Stack Development Intern C# | Wordpress at LIONS - Vehicular Protection (currently Pluro) in 2021. I was part of the Next Step Tech program at Google, in Search Team (2022-2024). Currently, I'm Software Engineer at CI&T.
+From experiences in the field of technology, I was a Full Stack Development Intern C# | Wordpress at LIONS - Vehicular Protection (currently Pluro) in 2021. I was part of the Next Step Tech program at Google, in Search Team (2022-2024). The last experience, I'm Software Engineer at CI&T.
 
 [🇧🇷](https://github.com/MarleneMoraes/marlenemoraes/tree/brazilian-portuguese) [🇫🇷](https://github.com/MarleneMoraes/marlenemoraes/tree/french)
 
@@ -44,7 +44,7 @@ From experiences in the field of technology, I was a Full Stack Development Inte
 English B2, Brazilian Portuguese C2, French A2, Spanish A2.
 
 ## Additional Informations
-- Volunteer work as Organizer at [Google Developers Group (GDG) Nova Lima Chapter](https://www.linkedin.com/company/gdgnovalima/) (Jul/2024-Current).
+- Volunteer work as Organizer at [Google Developers Group (GDG) Nova Lima Chapter](https://www.linkedin.com/company/gdgnovalima/) (Jul/2024-Sep/2024).
 - Volunteer work as Advisor to the Communication Team of the [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/) (Mar/2024-Jun/2024).
 - Volunteer work as C++ Instructor of the [Maratona Feminina de Programação (MFP)](https://www.linkedin.com/company/mfp-sbc/)'s course (Apr/2024).
 - Speaker at the [Google Developers Group Nova Lima](https://www.linkedin.com/company/gdgnovalima/) event with the theme "Tech Career Challenges (And How to Overcome Them)" (aug/2023).
