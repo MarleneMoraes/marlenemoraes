@@ -4,7 +4,7 @@
 <img src=".\assets\MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
 Msc in Information Science who transitioned to the IT area and specialist in Java Develompent in Federal University of Technology Paraná (UTFPR).
 
-From experiences in the field of technology, I was a Full Stack Development Intern C# | Wordpress at LIONS - Vehicular Protection (currently Pluro) in 2021. I was part of the Next Step Tech program at Google, in Search Team (2022-2024). The last experience, I'm Software Engineer at CI&T.
+From experiences in the field of technology, I was a Full Stack Development Intern C# | Wordpress at LIONS - Vehicular Protection (currently Pluro) in 2021. I was part of the Next Step Tech program at Google, in Search Team (2022-2024). The last experience, I was Java Backend Developer at CI&T.
 
 [🇧🇷](https://github.com/MarleneMoraes/marlenemoraes/tree/brazilian-portuguese) [🇫🇷](https://github.com/MarleneMoraes/marlenemoraes/tree/french)
 
