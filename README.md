@@ -1,5 +1,4 @@
 # Marlene Moraes
-### Software Engineer
 
 <img src=".\assets\MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
 Msc in Information Science who transitioned to the IT area and specialist in Java Develompent in Federal University of Technology Paraná (UTFPR).
@@ -30,6 +29,7 @@ From experiences in the field of technology, I was a Full Stack Development Inte
     <img height="40" margin="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C plus plus"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  alt="Nodejs"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/>      
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP"/>        
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  alt="Docker"/>
