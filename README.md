@@ -3,7 +3,7 @@
 <img src=".\assets\MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
 Mestra em Ciência da Informação que transicionou a área de TI. Especialista em Desenvolvimento Java na Universidade Tecnológica Federal do Paraná (UTFPR).
 
-De experiências na área da tecnologia, em 2021 atuou como Estagiária de Desenvolvimento Full Stack C# | Wordpress na LIONS - Proteção Veicular (atual Pluro). Fez parte do programa Next Step Tech na Google, equipe de Search (2022-2024). A última experiência, fui Desenvolvedora Backend Java na CI&T.
+De experiências na área da tecnologia, trabalhei com Desenvolvimento Full-Stack .NET, Java e Node, e Engenharia de Software.
 
 [🇺🇸](https://github.com/MarleneMoraes/marlenemoraes/tree/main) [🇫🇷](https://github.com/MarleneMoraes/marlenemoraes/tree/french)
 
