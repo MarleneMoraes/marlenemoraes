@@ -7,10 +7,12 @@
 
 <div align="center">
   <a href="https://github.com/MarleneMoraes/marlenemoraes/tree/portugues-brasil">
-    <img src="https://img.shields.io/badge/Português-informational?style=flat-square&logo=google-translate&logoColor=white&color=2B35AF" alt="Versão em Português">
+    <img src="https://img.shields.io/badge/Português-informational?style=flat-square&logo=google-translate&logoColor=white&color=2B35AF" alt="Portuguese Version">
+  </a>
+  <a href="https://github.com/MarleneMoraes/marlenemoraes/tree/francais">
+    <img src="https://img.shields.io/badge/Français-informational?style=flat-square&logo=google-translate&logoColor=white&color=2B35AF" alt="French Version">
   </a>
 </div>
-
 
 <img src="./assets/MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
 
@@ -52,7 +54,7 @@
   - Speaker on the theme *"Tech Career Challenges (And How to Overcome Them)"* (Aug/2023).
 #### Google
 - **Round Table participant** at the internal event **[Mind The Gap](https://sites.google.com/site/mindthegapprogram/home)** (Aug/2023).
-- 
+
 ### [W]
 #### Women in Tech (WiT)
 - **Speaker**: Guest at the event **["Black Women in Technology"](https://www.youtube.com/watch?v=lWvDkMnfR3I)** with the theme *"Efficiency Beyond Code: How to choose the stack strategically"* (Nov/2024).
