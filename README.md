@@ -1,10 +1,16 @@
 <div align="center"> 
     <img src="./assets/logo-horizontal.svg" width="500"> 
+    <p>
+        <i>M.Sc. in Information Science | Software Engineer</i>
+    </p>
 </div>
 
-<p align="center">
-    <i>M.Sc. in Information Science | Software Engineer</i>
-</p>
+<div align="center">
+  <a href="https://github.com/MarleneMoraes/marlenemoraes/tree/portugues-brasil">
+    <img src="https://img.shields.io/badge/Português-informational?style=flat-square&logo=google-translate&logoColor=white&color=2B35AF" alt="Versão em Português">
+  </a>
+</div>
+
 
 <img src="./assets/MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
 
