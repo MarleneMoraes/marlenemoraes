@@ -1,10 +1,19 @@
 <div align="center"> 
     <img src="./assets/logo-horizontal.svg" width="500"> 
+    <p>
+        <i>Ma. em Ciência da Informação | Engenheira de Software</i>
+    </p>
 </div>
 
-<p align="center">
-    <i>Ma. em Ciência da Informação | Engenheira de Software</i>
-</p>
+
+<div align="center">
+  <a href="https://github.com/MarleneMoraes/marlenemoraes/tree/main">
+    <img src="https://img.shields.io/badge/English-informational?style=flat-square&logo=google-translate&logoColor=white&color=2B35AF" alt="Versão em Inglês">
+  </a>
+  <a href="https://github.com/MarleneMoraes/marlenemoraes/tree/francais">
+    <img src="https://img.shields.io/badge/Français-informational?style=flat-square&logo=google-translate&logoColor=white&color=2B35AF" alt="Versão em Francês">
+  </a>
+</div>
 
 <img src=".\assets\MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
 
