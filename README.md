@@ -3,11 +3,7 @@
     <p>
         <i>Ma. em Ciência da Informação | Engenheira de Software</i>
     </p>
-</div>
-
-
-<div align="center">
-  <a href="https://github.com/MarleneMoraes/marlenemoraes/tree/main">
+    <a href="https://github.com/MarleneMoraes/marlenemoraes/tree/main">
     <img src="https://img.shields.io/badge/English-informational?style=flat-square&logo=google-translate&logoColor=white&color=2B35AF" alt="Versão em Inglês">
   </a>
   <a href="https://github.com/MarleneMoraes/marlenemoraes/tree/francais">
@@ -15,9 +11,15 @@
   </a>
 </div>
 
-<img src=".\assets\MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
+<p align="left">
+    <a href="https://linktr.ee/marlenemoraes">
+      <img src="https://img.shields.io/badge/Linktree-2B35AF?style=for-the-badge&logo=linktree&logoColor=white" />
+    </a>
+</p>
 
 ## Indexação Profissional
+
+<img src=".\assets\MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
 
 ### **[C] Ciência da Informação**
 - **Nota de Escopo:** Campo interdisciplinar focado na coleta, classificação, manipulação, armazenamento e recuperação da informação.
@@ -68,16 +70,6 @@
 ### [W] 
 #### Women in Tech (WiT)
 - **Palestrante**: Convidada no evento [**"Mulheres Negras na Tecnologia"**](https://www.youtube.com/watch?v=lWvDkMnfR3I) com o tema *"Eficiência Além do Código: Como escolher a stack de forma estratégica"* (Nov/2024).
-
----
-
-## Contato
-
-<p align="left">
-    <a href="https://linktr.ee/marlenemoraes">
-      <img src="https://img.shields.io/badge/Linktree-2B35AF?style=for-the-badge&logo=linktree&logoColor=white" />
-    </a>
-</p>
 
 ---
 <div align="center">
