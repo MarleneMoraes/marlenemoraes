@@ -3,10 +3,7 @@
     <p>
         <i>M.Sc. en Sciences de l'Information | Ingénieure Logiciel</i>
     </p>
-</div>
-
-<div align="center">
-  <a href="https://github.com/MarleneMoraes/marlenemoraes/tree/main">
+    <a href="https://github.com/MarleneMoraes/marlenemoraes/tree/main">
     <img src="https://img.shields.io/badge/English-informational?style=flat-square&logo=google-translate&logoColor=white&color=2B35AF" alt="Version Anglaise">
   </a>
   <a href="https://github.com/MarleneMoraes/marlenemoraes/tree/portugues-brasil">
@@ -14,10 +11,14 @@
   </a>
 </div>
 
+<p>
+  <a href="https://linktr.ee/marlenemoraes"><img src="https://img.shields.io/badge/Linktree-2B35AF?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+</p>
+
+## Indexation Professionnelle
 
 <img src="./assets/MarleneMoraes_por_NanciYin.png" alt="Marlene par Nanci Yin" width="150px" align="right"/>
 
-## Indexation Professionnelle
 ### **[C] Cloud et Infrastructure**
 - **Note d'application :** Orchestration de services distribués et automatisation des pipelines de déploiement dans des environnements de haute disponibilité.
 - **Trajectoire :**
@@ -64,11 +65,6 @@
 ### [W]
 #### Women in Tech (WiT)
 - **Conférencière** : Invitée à l'événement **["Black Women in Technology"](https://www.youtube.com/watch?v=lWvDkMnfR3I)** sur le thème *"L'efficacité au-delà du code : Comment choisir la stack de manière stratégique"* (Nov/2024).
-
-## Contact
-<p>
-  <a href="https://linktr.ee/marlenemoraes"><img src="https://img.shields.io/badge/Linktree-2B35AF?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-</p>
 
 <div align="center">
 <p> 
