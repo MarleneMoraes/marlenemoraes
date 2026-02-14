@@ -3,10 +3,7 @@
     <p>
         <i>M.Sc. in Information Science | Software Engineer</i>
     </p>
-</div>
-
-<div align="center">
-  <a href="https://github.com/MarleneMoraes/marlenemoraes/tree/portugues-brasil">
+    <a href="https://github.com/MarleneMoraes/marlenemoraes/tree/portugues-brasil">
     <img src="https://img.shields.io/badge/Português-informational?style=flat-square&logo=google-translate&logoColor=white&color=2B35AF" alt="Portuguese Version">
   </a>
   <a href="https://github.com/MarleneMoraes/marlenemoraes/tree/francais">
@@ -14,9 +11,15 @@
   </a>
 </div>
 
-<img src="./assets/MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right"/>
+<p>
+  <a href="https://linktr.ee/marlenemoraes"><img src="https://img.shields.io/badge/Linktree-2B35AF?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+</p>
+
 
 ## Professional Indexing
+
+<img src="./assets/MarleneMoraes_por_NanciYin.png" alt="Marlene by Nanci Yin" width="150px" align="right" />
+
 ### **[C] Cloud and Infrastructure**
 - **Scope Note:** Orchestration of distributed services and automation of deployment pipelines in high-availability environments.
 - **Trajectory:**
@@ -24,6 +27,7 @@
     - *DevOps Cycle:* Creation of CI/CD pipelines via Jenkins and version control with Git and Mercurial.
 
 ### **[I] Information Science**
+
 - **Scope Note:** Interdisciplinary field focused on the collection, classification, manipulation, storage, and retrieval of information.
 - **Trajectory:**
     - *Social Memory:* Academic research focused on the construction of memory spaces in Brazilian Hip Hop (UFMG).
@@ -61,11 +65,6 @@
 #### Women's Programming Marathon (MFP)
 - **C++ Instructor**: Taught the C++ language course to competitors (Apr/2024).
 - **Communication Advisor**: Volunteer work in the marathon's strategic communication team (Mar/2024 – Jun/2024).
-
-## Contact
-<p>
-  <a href="https://linktr.ee/marlenemoraes"><img src="https://img.shields.io/badge/Linktree-2B35AF?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-</p>
 
 <div align="center">
 <p> 
